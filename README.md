@@ -8,6 +8,7 @@ public class Joao {
         Spring MVC),
         Maven,
         SQL,
+        Docker,
         HTML,
         CSS,
         Git/GitHub}";
