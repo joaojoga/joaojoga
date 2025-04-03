@@ -20,19 +20,19 @@ public class Joao {
 ```
 ###
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="godot logo"  />
+  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="maven logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
   <img width="0" />
     
 </div>
