@@ -30,6 +30,8 @@ public class Joao {
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
