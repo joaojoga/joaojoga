@@ -22,11 +22,13 @@ public class Joao {
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="maven logo"  />
-  <img width="0" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="maven logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="0" />
