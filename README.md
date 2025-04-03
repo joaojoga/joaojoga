@@ -11,7 +11,7 @@ public class Joao {
         Docker,
         HTML,
         CSS,
-        Git/GitHub}";
+        Git/GitHub"};
 
         System.out.println(" Nome: " + nome);
         System.out.println(" Tecnologias: " + tecnologias);
